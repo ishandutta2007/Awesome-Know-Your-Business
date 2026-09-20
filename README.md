@@ -61,7 +61,7 @@ Below is a curated table of leading B2B SaaS platforms for business verification
 
 ## ⚡ Open-Source GitHub Projects
 
-Below is a curated list of open-source tools for self-hosted KYB workflows, beneficial ownership (UBO) graph visualization, compliance watchlist screening, and registry data integration. **Sorted by GitHub Star Count (Descending).**
+Below is a curated list of open-source tools for self-hosted KYB workflows, beneficial ownership (UBO) graph visualization, compliance watchlist screening, and registry data integration. **Sorted by GitHub Stars_Count (Descending).**
 
 | Project Name 📦 | Stars ⭐ | Description & Key Features 📝 | Tech Stack / License ⚙️ |
 | :--- | :--- | :--- | :--- |
@@ -117,7 +117,7 @@ Contributions are highly welcomed! Help us keep this directory complete and accu
 1. Fork this repository. 🍴
 2. Edit `README.md` following the table structure above. ✏️
 3. Ensure SaaS additions include specific starting pricing tiers and exact free tier/trial limits. 💲
-4. Ensure Open-Source additions include GitHub star badges linking to the repository stargazers page. ⭐
+4. Ensure Open-Source additions include GitHub Stars_Badges linking to the repository stargazers page. ⭐
 5. Open a Pull Request with a short summary of changes. 🚀
 
 ---
